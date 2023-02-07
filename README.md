@@ -10,18 +10,18 @@ auf deutsch, Hang~~u~~l.
 
 #### Einfache Vokale
 
-| Einfaches Vokale | auf deutsch |
-| ---------------- | ----------- |
-| ㅏ                | A           |
-| ㅑ                | JA          |
-| ㅓ                | ə           |
-| ㅕ                | Jə          |
-| ㅗ                | O           |
-| ㅛ                | JO          |
-| ㅜ                | U           |
-| ㅠ                | JU          |
-| ㅡ                | ~~U~~       |
-| ㅣ                | I           |
+| Einfache Vokale | auf deutsch |
+| --------------- | ----------- |
+| ㅏ               | A           |
+| ㅑ               | JA          |
+| ㅓ               | ə           |
+| ㅕ               | Jə          |
+| ㅗ               | O           |
+| ㅛ               | JO          |
+| ㅜ               | U           |
+| ㅠ               | JU          |
+| ㅡ               | ~~U~~       |
+| ㅣ               | I           |
 
 **ㅏ = a**&#x20;
 
@@ -42,7 +42,7 @@ zusatz: [https://de.wikipedia.org/wiki/Schwa](https://de.wikipedia.org/wiki/Schw
 \
 **ㅕ = jə** \
 \
-natürlich oder? ein horizontale Streich bedeutet "j" wie immer.\
+natürlich oder? ein  Streich bedeutet "j" wie immer.\
 \
 **ㅗ = o**&#x20;
 
