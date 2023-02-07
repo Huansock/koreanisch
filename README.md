@@ -36,7 +36,7 @@ ja. genau du hast schon zwei Vokalen gelernt.  sehr gut.
 
 **ㅓ =** [**ə**](https://de.wikipedia.org/wiki/Liste\_der\_IPA-Zeichen#%C9%99)****
 
-Sprechen Sie jetzt die Falle\[fa:lə] aus. ja genau!. In diesem Fall sprechen wir nicht \[falle] , sondern \[fa:lə]. das Worst Andere\[Andərə] ist auch so. ja dieses "**ə**" ist was ich meinte. sehr gut. \
+Sprechen Sie jetzt die Falle\[fa:lə] aus. ja genau!. In diesem Fall sprechen wir nicht \[falle] , sondern \[fa:lə]. das Wort Andere\[Andərə] ist auch so. ja dieses "**ə**" ist was ich meinte. sehr gut. \
 \
 zusatz: [https://de.wikipedia.org/wiki/Schwa](https://de.wikipedia.org/wiki/Schwa)\
 \
@@ -115,6 +115,17 @@ Sie wissen es schon warum **ㅐund ㅔ = Ä** ist. oder? &#x20;
 
 
 
+#### Schwierigster Vokal
+
+| Koreanisch | Zerlegung       | Deutsch |
+| ---------- | --------------- | ------- |
+| ㅢ          | ㅡ (~~u~~)+ ㅣ(i) | ~~u~~ i |
+
+Dafür haben wir u nach i ausgesprochen. Bitte Sprechen Sie jetzt von ~~U~~ nach I. \
+Deine Zunge bewegt von der Mitte nach vorne. Wenn du es als eu gelernt. Du hast falsch gelernt.&#x20;
+
+
+
 DAS WAR'S !!! Herzlichen Glückwunsch du hast Alle Vokale in Koreansich gelernt. \
 \
 Nächstens mal lernen wir Konsonanten , und es ist einfacher als Dies.\
@@ -151,19 +162,19 @@ letztens mal wie spricht man 앙 ?   ja stimmt. 'ANG'
 
 
 
-Weißt du eine Anime A-Ang? wir schreibenn es wie 아앙. wie cool oder? ehrlich meine Freundin ist ein Fan von A Ang. hahaha\
+Weißt du eine Anime A-Ang? wir schreibenn es wie 아앙. wie cool oder? sei ehrlich, meine Freundin ist ein Fan von A Ang. hahaha\
 \
 \
 Okay Du hast fast alles gelernt. Ich gebe euch ein Quiz. \
-우유\[U:JU] ist das Milch in Korea. \
-wie heißt 우유, wenn es fällt?\
+우유\[U:JU] ist das Milch auf Koreanisch. \
+dann wie heißt 우유, wenn es fällt?\
 \
 \
 Hint!
 
 <figure><img src=".gitbook/assets/th-932706106.jpg" alt=""><figcaption></figcaption></figure>
 
-Schreiben Sie das Antwort in Kommentare!
+Sauchen Sie das Antwort in meinen Tiktok an!
 
 
 
