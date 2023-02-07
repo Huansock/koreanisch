@@ -102,7 +102,7 @@ Betrachten Wir das Umlaut von **ə** als **Ä !!!**
 
 Anwendung von <mark style="color:red;">W</mark> :
 
-In disem Fall 'O' und 'U' verwechseln sich wie <mark style="color:red;">W(Double-U)</mark> auf Englisch.
+In disem Fall 'O' und 'U' verwechseln sich als <mark style="color:red;">W(Double-U)</mark> auf Englisch.
 
 | Einfache Vokale | Anwendungen | Aussprache                         |
 | --------------- | ----------- | ---------------------------------- |
