@@ -4,7 +4,7 @@ auf deutsch, Hang~~u~~l.
 
 ### ich benutze "<mark style="color:red;">j</mark>" und "<mark style="color:red;">w</mark>"  auf englisch. Das heißt <mark style="color:red;">j</mark> ist kein jott sondern jay und <mark style="color:red;">w</mark> ist Double-U, fall die <mark style="color:red;">rot</mark> sind. &#x20;
 
-### Ä und E sind fast gleich in Südkorea. Nur wenn du ein Berühmter Moderator in Südkorea werden möchtest,  du musst Ä und E vergleichen. Ansonsten auf gar kein Fall. Ich spreche auf immer Ä. :thumbsup:
+### Ä und E sind fast gleich in Südkorea. Nur wenn du ein Berühmter Moderator in Südkorea werden möchtest,  du musst Ä und E vergleichen. Ansonsten auf gar kein Fall. Ich spreche auch immer Ä. :thumbsup:
 
 ### Vokale
 
