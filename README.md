@@ -26,7 +26,7 @@ auf deutsch, Hang~~u~~l.
 **ㅏ = a**&#x20;
 
 So lass uns Koreanisch lernen. du hast schon ein Vokal gelernt. wie geil!! \
-In Koreanisch wenn man horizontale Streich addiert dann addieren wir auch "j".
+In Korea wenn man horizontale Streich addiert dann addieren wir auch "j".
 
 zum Beispiel:
 
@@ -64,7 +64,7 @@ jetzt kommt eine Herausforderung.&#x20;
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>IPA</p></figcaption></figure>
 
-~~**u**~~ steht  in der Mitte am Hochsten. \
+~~**u**~~ steht  in der Mitte am höchsten. \
 Hören Sie es mal erst!
 
 [https://ko.dict.naver.com/#/entry/koko/dd508b1ae8d0424bb7d9b3dee5acd9fa](https://ko.dict.naver.com/#/entry/koko/dd508b1ae8d0424bb7d9b3dee5acd9fa)\
@@ -121,12 +121,14 @@ Sie wissen es schon warum **ㅐund ㅔ = Ä** ist. oder? &#x20;
 | ---------- | --------------- | ------- |
 | ㅢ          | ㅡ (~~u~~)+ ㅣ(i) | ~~u~~ i |
 
-Dafür haben wir u nach i ausgesprochen. Bitte Sprechen Sie jetzt von ~~U~~ nach I. \
+Dafür haben wir u nach i geübt. Bitte Sprechen Sie jetzt von ~~U~~ nach I. \
 Deine Zunge bewegt von der Mitte nach vorne. Wenn du es als eu gelernt. Du hast falsch gelernt.&#x20;
 
 
 
 DAS WAR'S !!! Herzlichen Glückwunsch du hast Alle Vokale in Koreansich gelernt. \
+so einfach  ㅏa ㅓə ㅗo ㅜu ㅡ~~u~~ ㅣi mit j , mit Umlaut, mit <mark style="color:red;">W</mark>.
+
 \
 Nächstens mal lernen wir Konsonanten , und es ist einfacher als Dies.\
 Davor Du musst die Schreibweise wissen. \
