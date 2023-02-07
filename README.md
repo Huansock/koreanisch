@@ -26,7 +26,7 @@ auf deutsch, Hang~~u~~l.
 **ㅏ = a**&#x20;
 
 So lass uns Koreanisch lernen. du hast schon ein Vokal gelernt. wie geil!! \
-In Korea wenn man horizontale Streich addiert dann addieren wir auch "j".
+In Korea wenn man ein Streich addiert dann addieren wir auch "j".
 
 zum Beispiel:
 
@@ -102,7 +102,7 @@ Betrachten Wir das Umlaut von **ə** als **Ä !!!**
 
 Anwendung von <mark style="color:red;">W</mark> :
 
-In disem Fall 'O' und 'U' verwechseln sich wie <mark style="color:red;">W(Double-U)</mark> auf Englisch.
+In disem Fall 'O' und 'U' verwechseln sich als <mark style="color:red;">W(Double-U)</mark> auf Englisch.
 
 | Einfache Vokale | Anwendungen | Aussprache                         |
 | --------------- | ----------- | ---------------------------------- |
@@ -112,6 +112,8 @@ In disem Fall 'O' und 'U' verwechseln sich wie <mark style="color:red;">W(Double
 | ㅜ(U)            | ㅞ           | <mark style="color:red;">W</mark>Ä |
 
 Sie wissen es schon warum **ㅐund ㅔ = Ä** ist. oder? &#x20;
+
+{% embed url="https://youtu.be/HwWCUc2q1j0?t=20" %}
 
 
 
