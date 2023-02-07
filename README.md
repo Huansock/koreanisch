@@ -113,6 +113,8 @@ In disem Fall 'O' und 'U' verwechseln sich als <mark style="color:red;">W(Double
 
 Sie wissen es schon warum **ㅐund ㅔ = Ä** ist. oder? &#x20;
 
+{% embed url="https://youtu.be/HwWCUc2q1j0?t=20" %}
+
 
 
 #### Schwierigster Vokal
