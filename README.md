@@ -161,9 +161,7 @@ wie heißt 우유, wenn es fällt?\
 \
 Hint!
 
-
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/th-932706106.jpg" alt=""><figcaption></figcaption></figure>
 
 Schreiben Sie das Antwort in Kommentare!
 
