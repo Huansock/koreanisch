@@ -62,7 +62,7 @@ jetzt kommt eine Herausforderung.&#x20;
 
 **ㅡ = **~~**u**~~
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>IPA</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>IPA</p></figcaption></figure>
 
 ~~**u**~~ steht  in der Mitte am Hochsten. \
 Hören Sie es mal erst!
@@ -129,7 +129,7 @@ ich bringe dir jetzt ein Konsonant. \
 \
 HÄ? Was ist die Stelle? <- okay ich zeige Ihnen.\
 \
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (3).png>)
 
 Die sind Schreibweise.&#x20;
 
@@ -163,6 +163,6 @@ Hint!
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Schreiben Sie das Antwort in Kommentare!
