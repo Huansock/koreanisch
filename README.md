@@ -146,7 +146,7 @@ ich bringe dir jetzt ein Konsonant. \
 \
 HÄ? Was ist die Stelle? <- okay ich zeige Ihnen.\
 \
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 Die sind Schreibweise.&#x20;
 
