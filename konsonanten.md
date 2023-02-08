@@ -109,7 +109,7 @@ Ach und Bitte Schreiben Sie dein Name. jetzt Du kannst dein Name auf Koreanisch 
 
 Wichtige Wörter!!!
 
-현대 = hjn dä
+현대 = hjən dä
 
 삼성 = Sam səng
 
