@@ -1,4 +1,4 @@
-# 한글 - 2
+# Konsonanten
 
 {% embed url="https://www.buymeacoffee.com/huansock" %}
 
@@ -10,22 +10,22 @@ Wenn Sie mir ein Kaffe kaufen , ich kann schnell und besser dieses Website bilde
 
 ### Ein Zeichen - Konsonanten
 
-| Ein Zeichen - Konsonanten | Name | Deutsch                                |
-| ------------------------- | ---- | -------------------------------------- |
-| ㄱ                         | 기역   | G                                      |
-| ㄴ                         | 니은   | N                                      |
-| ㄷ                         | 디귿   | D                                      |
-| ㄹ                         | 리을   | L                                      |
-| ㅁ                         | 미음   | M                                      |
-| ㅂ                         | 비읍   | B                                      |
-| ㅅ                         | 시옷   | S                                      |
-| ㅇ                         | 이응   | leer oder NG                           |
-| ㅈ                         | 지읒   | <mark style="color:red;">J(jay)</mark> |
-| ㅊ                         | 치읓   | Z (wie Schmatz, ch auf Englisch)       |
-| ㅋ                         | 키옄   | K                                      |
-| ㅌ                         | 티읕   | T                                      |
-| ㅍ                         | 피읖   | P                                      |
-| ㅎ                         | 히읗   | H                                      |
+| Ein Zeichen - Konsonanten | Name | Deutsch                                            |
+| ------------------------- | ---- | -------------------------------------------------- |
+| ㄱ                         | 기역   | **G**, K                                           |
+| ㄴ                         | 니은   | N                                                  |
+| ㄷ                         | 디귿   | **D**, t                                           |
+| ㄹ                         | 리을   | L                                                  |
+| ㅁ                         | 미음   | M                                                  |
+| ㅂ                         | 비읍   | **B**, P                                           |
+| ㅅ                         | 시옷   | S                                                  |
+| ㅇ                         | 이응   | leer oder NG                                       |
+| ㅈ                         | 지읒   | <mark style="color:red;">J(jay in jogging)</mark>  |
+| ㅊ                         | 치읓   | Tsch (wie Tschao, ch auf Englisch)                 |
+| ㅋ                         | 키옄   | K                                                  |
+| ㅌ                         | 티읕   | T                                                  |
+| ㅍ                         | 피읖   | P                                                  |
+| ㅎ                         | 히읗   | H                                                  |
 
 
 
@@ -109,7 +109,7 @@ Ach und Bitte Schreiben Sie dein Name. jetzt Du kannst dein Name auf Koreanisch 
 
 Wichtige Wörter!!!
 
-현대 = hj~~u~~n dä
+현대 = hjn dä
 
 삼성 = Sam səng
 
