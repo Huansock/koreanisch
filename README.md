@@ -1,6 +1,8 @@
-# 한글 - 1
+# Vokale
 
-auf deutsch, Hang~~u~~l.
+Lernen Sie mit mir!&#x20;
+
+{% embed url="https://www.youtube.com/watch?ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC&t=3s&v=KnCq8eHtBfI" %}
 
 ### ich benutze "<mark style="color:red;">j</mark>" und "<mark style="color:red;">w</mark>"  auf englisch. Das heißt <mark style="color:red;">j</mark> ist kein jott sondern jay und <mark style="color:red;">w</mark> ist Double-U, fall die <mark style="color:red;">rot</mark> sind. &#x20;
 
