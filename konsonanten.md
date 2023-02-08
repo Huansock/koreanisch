@@ -45,7 +45,7 @@ Lernen Sie mit dem Lied!!
 
 {% embed url="https://youtu.be/uhUupQzFySw?t=4" %}
 
-### Doppel Konsonanten (Stern)
+### Doppel Zeichen Konsonanten (Stern)
 
 | Doppel Konsonanten | Name | Deutsch                            |
 | ------------------ | ---- | ---------------------------------- |
