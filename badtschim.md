@@ -1,5 +1,9 @@
 # 받침 (Badtschim)
 
+{% embed url="https://www.buymeacoffee.com/huansock" %}
+bitte...
+{% endembed %}
+
 ## Bedeutung des 받침
 
 Nun lernen wir Badtschim.\
@@ -145,3 +149,10 @@ Das war's!!! \
 folgend lernen wir Ausnahmen in Vokale und Konsonanten!
 
 \
+Tiktok
+
+{% embed url="https://www.tiktok.com/@dogil_mekju" %}
+
+youtube
+
+{% embed url="https://www.youtube.com/channel/UCrtpypM3hH6MBE2nLWSC1nQ" %}
