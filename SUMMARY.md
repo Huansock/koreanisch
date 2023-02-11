@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Readme](README.md)
+
 ## ✨ Grund
 
-* [Eigenschaft von Koreanisch](README.md)
+* [Eigenschaft von Koreanisch](grund/eigenschaft-von-koreanisch.md)
 * [Vokale](grund/vokale.md)
 * [Konsonanten](grund/konsonanten.md)
 * [받침 (Badtschim)](grund/badtschim.md)
