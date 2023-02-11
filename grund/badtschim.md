@@ -54,7 +54,7 @@ Beispiel: 국, 눈 , 곧, 달 , 맘, 응.
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
