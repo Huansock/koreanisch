@@ -1,18 +1,32 @@
-# Eigenschaft von Koreanisch
+# Lernen Sie Koreanisch auf Deutsch !!!
 
-Mit diesem Datei hab ich die Eigenschaft von Koreanisch erklärt.
+Haben Sie Bock auf Koreanisch??
+Dann lernen Sie mit mir!!
 
-lesen Sie es durch.
+[WEBSITE](https://ddiddabbu.gitbook.io/ko/grund/readme)
 
-{% file src=".gitbook/assets/한글 3.pdf" %}
+1. Genaue Phonetik für Deutsche
+2. Mit [Youtube Tutorial](https://www.youtube.com/watch?v=KnCq8eHtBfI&ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC)
+3. Mutterspracher
+4. Kostenlos aber bitte buy me a coffee.. Ich bin nur ein Student.... ㅠㅜㅠㅜㅠㅜ 
+[buy me a coffe](https://www.buymeacoffee.com/huansock)
 
-Lernen Sie es mit mir&#x20;
 
-{% embed url="https://www.tiktok.com/@dogil_mekju/video/7198147233290669318" %}
-
-{% embed url="https://www.buymeacoffee.com/huansock" %}
-Bitte buy me a coffe...
-{% endembed %}
-
+## Homepage
 
 ![homepage](.gitbook/assets/homepage_screenshot.png "hompage")
+
+## Stufe
+- Grund ✓
+- a1 bearbeitung
+- a2
+- b1
+- b2
+
+## Haben Sie Fragen??
+
+Schreiben Sie es mir
+
+dogilmekju@gmail.com
+
+## [tiktok](https://www.tiktok.com/@dogil_mekju) 
