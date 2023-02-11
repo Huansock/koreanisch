@@ -35,19 +35,19 @@ dann müssen wir jetzt -은/는, -이다 ,-에요 lernen.
 
 ### -은 oder -는 (Subjekt-Hilfswort)
 
-Die heißen 'Subjekt-Hilfswort'. Es bedeutet wenn -은 oder -는 mit Nomen verwunden werden, dass dann die sind Subjekt.
+Die heißen 'Subjekt-Hilfswort'. Es bedeutet wenn -은 oder -는 mit Nomen verwunden werden, dann die werden Subjekt.
 
 나 + -는 = 나는&#x20;
 
 저 + -는 = 저는&#x20;
 
-so Beides wird Subjekt in Satz
+so Beide spielen die Rolle als Subjekt in Satz
 
 
 
 ### -이다 (Prädikat-Hilfswort)
 
-\-이다 ist spezial. es ist sozusagen einziges Prädikat-Hilfswort in Koreanisch. Es wird auch mit Nomen verwinden. Und es bedeutet 'Sein' in DE.
+\-이다 ist spezial. Es ist sozusagen einziges Prädikat-Hilfswort in Koreanisch. Es wird auch mit Nomen verwinden. Und es bedeutet '**Sein**' in DE.
 
 also
 
@@ -59,7 +59,7 @@ Bedeutung : Ich bin Dummkopf. hahahaha. Spaß!
 
 
 
-### -에요 (Suffix mit -이다 und -아니다)
+### -에요 (Suffix nur mit -이다 und -아니다)
 
 Funktion: **Beschreibung** oder **Frage**.
 
@@ -104,15 +104,17 @@ Ferner -다 ist auch ein Suffix.
 [나는 독일 사람이에요.](ich-bin-ein-deutscher-eine-deutscherin.md#.-freundlich)
 
 Dann was ist -이에요 hier? . so einfach. \
-\-이에요 = [-이-](ich-bin-ein-deutscher-eine-deutscherin.md#praedikat-hilfswort) + [-에요](ich-bin-ein-deutscher-eine-deutscherin.md#suffix-mit-und).
+\-이에요 = [-이-](ich-bin-ein-deutscher-eine-deutscherin.md#praedikat-hilfswort)(Verbstamm von -이다) + [-에요](ich-bin-ein-deutscher-eine-deutscherin.md#suffix-mit-und).
 
 
 
-### ES IST ABHÄNGIG VOB BADTSCHIM
+### ES IST ABHÄNGIG VON BADTSCHIM
 
 
 
-warum&#x20;
+warum benutzt man entweder das oder das??
+
+beispiel:
 
 \-이에요 oder -예요
 
@@ -130,10 +132,6 @@ warum?
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Was ist einfacher auszusprechen?
-
-
-
 나은 독일 사람예요
 
 \[na:~~u~~n dogil sa:ra:mjä:jo]
@@ -141,6 +139,10 @@ Was ist einfacher auszusprechen?
 나는 독일 사람이에요
 
 \[nan~~u~~n dogil sa:ra:mi:jä:jo]
+
+
+
+Was ist einfacher auszusprechen?
 
 
 
