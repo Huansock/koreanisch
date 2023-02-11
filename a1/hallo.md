@@ -51,11 +51,37 @@ Achtung, es ist bei Ihnen egal, dass Sie freundlich oder höflich sprechen.  Den
 
 
 
-
-
-
-
 Weiter lernen wir das Vorstellen.
+
+
+
+
+
+### ZUSATZ
+
+Ursprunglich 안녕 bedeutet das Wohlergehen.
+
+So 안녕하세요 bedeutet 'Sind Sie wohl?' aber naja, jetzt es bedeutet 'Hallo'.
+
+
+
+### WORT
+
+안녕 = hallo
+
+안녕하세요 = hallo (höflich)
+
+
+
+나 = ich
+
+저 = ich (höflich)
+
+
+
+먹다 = essen
+
+드시다 = essen(höfflich)
 
 
 
