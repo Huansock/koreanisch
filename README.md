@@ -18,8 +18,8 @@ Dann lernen Sie mit mir!!
 ![homepage](.gitbook/assets/homepage_screenshot.png "hompage")
 
 ## Stufe
-- Grund ✓
-- a1 bearbeitung
+- Grund ✅
+- a1 👷
 - a2
 - b1
 - b2
