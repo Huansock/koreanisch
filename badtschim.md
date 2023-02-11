@@ -84,25 +84,7 @@ Lernen Sie es wie Diagram.
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-## Batschim ㅎ
-
-### ㅎ ist Verstärkung in Badtschim
-
-1.  ㅎ in Badtschim + \[ㄱ, ㄷ, ㅈ] = \[ㅋ, ㅌ, ㅊ]
-
-    Beispiel: 많고\[만코], 놓고\[노코], 닳지\[달치]
-2.  \[ㄱ(ㄺ), ㄷ, ㅂ(ㄼ), ㅈ(ㄵ)] + ㅎ in Badtschim = \[ㅋ, ㅌ, ㅍ, ㅊ]
-
-    Beispiel: 각하\[가카], 먹히다\[머키다], 밟히다\[발피다].
-3. ㅎ + ㅅ= ㅆ
-
-### ㅎ in Badtschim + ㄴ = ㄴㄴ
-
-Beispiel: 놓는\[논는], 쌓네\[싼네]
-
-### Wenn ㅎ in Badtschim auf ㅇ trifft, verschwindet es.
-
-Beispiel: 많아\[마:나],  놓아\[노아]
+##
 
 
 
