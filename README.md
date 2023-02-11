@@ -13,3 +13,6 @@ Lernen Sie es mit mir&#x20;
 {% embed url="https://www.buymeacoffee.com/huansock" %}
 Bitte buy me a coffe...
 {% endembed %}
+
+
+![homepage](.gitbook/assets/homepage_screenshot.png "hompage")
