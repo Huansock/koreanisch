@@ -1,5 +1,7 @@
 # +ZUSATZ der Phonetik (B2 Niveau)
 
+## Es ist schwierig. Ich schreibe es nur , um genauer zu werden. Wenn sie kein B2 Student, müssen Sie dies überspringen.
+
 ## Vokale
 
 1.  Kann man ㅖ als ä sprechen,  außer 예 und 례
