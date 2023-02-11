@@ -8,7 +8,8 @@ Dann lernen Sie mit mir!!
 1. Genaue Phonetik für Deutsche
 2. Mit [Youtube Tutorial](https://www.youtube.com/watch?v=KnCq8eHtBfI&ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC)
 3. Ich bin Mutterspracher
-4. Kostenlos aber bitte buy me a coffee.. Ich bin nur ein Student.... ㅠㅜㅠㅜㅠㅜ 
+4. Super Super einfach 
+5. Kostenlos aber bitte buy me a coffee.. Ich bin nur ein Student.... ㅠㅜㅠㅜㅠㅜ 
 [buy me a coffe](https://www.buymeacoffee.com/huansock)
 
 
