@@ -35,3 +35,5 @@ dogilmekju@gmail.com
 ## Die Information , die ich lese , um Koreanisch zu lehrnen.
 1. [Koreanische nationale Sprachschule](https://www.korean.go.kr/)
 2. [Nuri sejong sprachschule](https://nuri.iksi.or.kr/front/main/main.do?language=ko)
+
+### Wenn Sie die Inhalte von meiner Website anwenden möchten, Sie müssen ein E mail mir screiben. Sie dürfen nicht mein Website freiwillig benutzen.
