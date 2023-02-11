@@ -6,12 +6,12 @@
 
 
 
-## Was ist denn der Unterschied denn Zwischen???
+## Was ist denn der Unterschied dazwischen???
 
 
 
-Bevor ich den Unterschied erklären, bringe ich die die Gemeinsamkeit. \
-Das ist , die beiden sind umgangssprachlich.
+Bevor ich den Unterschied erkläre, bringe ich die Gemeinsamkeit bei. \
+Das ist , die beiden sind **umgangssprachlich**.
 
 
 
@@ -23,9 +23,9 @@ der Unterschied ist,&#x20;
 
 
 
-Wissen Sie was ich gesagt habe?? ja. Alles von Koreanisch ist die SUFFIXE.
+Können Sie daran erinnern , was ich gesagt habe?? ja. Alles von Koreanisch ist die SUFFIXE.
 
-Wir haben keinen Duzen oder Siezen , sondern 존댓말 und 반말. Die sind was ich auch hasse. hahaha
+Wir haben keine Duzen oder Siezen , sondern **존댓말** und **반말**. Die sind was ich auch hasse. hahaha
 
 
 
@@ -51,7 +51,7 @@ Achtung, es ist bei Ihnen egal, dass Sie freundlich oder höflich sprechen.  Den
 
 
 
-Weiter lernen wir das Vorstellen.
+Weiter lernen wir ,wie man sich Vorstellen kann.
 
 
 
@@ -59,7 +59,7 @@ Weiter lernen wir das Vorstellen.
 
 ### ZUSATZ
 
-Ursprunglich 안녕 bedeutet das Wohlergehen.
+Ursprünglich 안녕 bedeutet das Wohlergehen.
 
 So 안녕하세요 bedeutet 'Sind Sie wohl?' aber naja, jetzt es bedeutet 'Hallo'.
 

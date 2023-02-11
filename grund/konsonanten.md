@@ -15,7 +15,7 @@ Wenn Sie mir ein Kaffe kaufen , ich kann schnell und besser dieses Website bilde
 | ㄱ                         | 기역   | **G**, K                                           |
 | ㄴ                         | 니은   | N                                                  |
 | ㄷ                         | 디귿   | **D**, t                                           |
-| ㄹ                         | 리을   | L                                                  |
+| ㄹ                         | 리을   | R, **L**                                           |
 | ㅁ                         | 미음   | M                                                  |
 | ㅂ                         | 비읍   | **B**, P                                           |
 | ㅅ                         | 시옷   | S                                                  |
@@ -31,7 +31,7 @@ Wenn Sie mir ein Kaffe kaufen , ich kann schnell und besser dieses Website bilde
 
 Also
 
-Q, W , V , F , R , gibt's nicht in Korea.
+Q, W , V , F ,  R gibt's nicht in Korea.
 
 Man spricht R so tief mit der Zunge in Deutschland, es wäre besser, die Deutsche sprechen ㄹ als L. R in Deutschland klingt fast als G für die Koreanische.\
 \
