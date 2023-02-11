@@ -9,7 +9,3 @@ lesen Sie es durch.
 Lernen Sie es mit mir&#x20;
 
 {% embed url="https://www.tiktok.com/@dogil_mekju/video/7198147233290669318" %}
-
-{% embed url="https://www.buymeacoffee.com/huansock" %}
-Bitte buy me a coffe...
-{% endembed %}

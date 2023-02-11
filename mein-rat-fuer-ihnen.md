@@ -27,3 +27,5 @@ Nehmen Sie bitte ein Lied , das Sie wollen.
 
 ****
 
+Sie sind Genie, super schlau. SIe können jetzt sagen, dass Sie auch Koreanisch sprechen. Ich beweise es. okay? So Sagen Sie für die Andere , dass Sie Koreanisch sprechen können. !!&#x20;
+
