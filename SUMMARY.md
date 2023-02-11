@@ -4,4 +4,4 @@
 * [Vokale](<README (1).md>)
 * [Konsonanten](konsonanten.md)
 * [받침 (Badtschim)](badtschim.md)
-* [+ZUSATZ der Phonetik (B2 Nivea)](+zusatz-der-phonetik-b2-nivea.md)
+* [+ZUSATZ der Phonetik (B2 Niveau)](+zusatz-der-phonetik-b2-niveau.md)
