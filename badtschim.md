@@ -146,7 +146,7 @@ Lernen Sie **nicht** die Vokale-Hilfswörter Liste auswendig!!!
 
 Das war's!!! \
 \
-folgend lernen wir Ausnahmen in Vokale und Konsonanten!
+folgend lernen wir Begrüßung !
 
 \
 Tiktok
