@@ -10,8 +10,6 @@ Haben Sie Bock auf Koreanisch?? Dann lernen Sie mit mir!!
 4. Super Super einfach
 5. Kostenlos aber bitte buy me a coffee.. Ich bin nur ein Student.... ㅠㅜㅠㅜㅠㅜ [buy me a coffe](https://www.buymeacoffee.com/huansock)
 
-{% embed url="https://www.youtube.com/watch?ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC&v=KnCq8eHtBfI" %}
-
 ## Homepage
 
 ![homepage](.gitbook/assets/homepage\_screenshot.png)
@@ -36,5 +34,9 @@ dogilmekju@gmail.com
 
 1. [Koreanische nationale Sprachschule](https://www.korean.go.kr/)
 2. [Nuri sejong sprachschule](https://nuri.iksi.or.kr/front/main/main.do?language=ko)
+
+## Ressourcen
+
+
 
 ### Wenn Sie die Inhalte von meiner Website anwenden möchten, Sie müssen ein E mail mir screiben. Sie dürfen nicht mein Website freiwillig benutzen.
