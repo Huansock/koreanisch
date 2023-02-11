@@ -31,3 +31,7 @@ Schreiben Sie es mir
 dogilmekju@gmail.com
 
 ## [tiktok](https://www.tiktok.com/@dogil_mekju) 
+
+## Die Information , die ich lese , um Koreanisch zu lehrnen.
+1. [Koreanische nationale Sprachschule](https://www.korean.go.kr/)
+2. [Nuri sejong sprachschule](https://nuri.iksi.or.kr/front/main/main.do?language=ko)
