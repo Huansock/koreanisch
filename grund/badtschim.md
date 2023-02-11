@@ -82,7 +82,7 @@ Beispiel: 꽃, 앞, 옷
 
 Lernen Sie es wie Diagram.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

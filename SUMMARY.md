@@ -16,7 +16,4 @@
 ## 🧒 A1
 
 * [Hallo! 안녕!](a1/hallo.md)
-
-***
-
-* [Ich bin ein Deutscher / eine Deutscherin](ich-bin-ein-deutscher-eine-deutscherin.md)
+* [Ich bin ein Deutscher / eine Deutscherin](a1/ich-bin-ein-deutscher-eine-deutscherin.md)
