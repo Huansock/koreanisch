@@ -1,7 +1,12 @@
 # Table of contents
 
+## ✨ Grund
+
 * [Eigenschaft von Koreanisch](README.md)
-* [Vokale](<README (1).md>)
-* [Konsonanten](konsonanten.md)
-* [받침 (Badtschim)](badtschim.md)
-* [+ZUSATZ der Phonetik (B2 Niveau)](+zusatz-der-phonetik-b2-niveau.md)
+* [Vokale](grund/vokale.md)
+* [Konsonanten](grund/konsonanten.md)
+* [받침 (Badtschim)](grund/badtschim.md)
+
+***
+
+* [+ZUSATZ der Phonetik (B2 Niveau)](+zusatz-der-phonetik-b2-nivea.md)

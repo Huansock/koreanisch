@@ -9,7 +9,7 @@ bitte...
 Nun lernen wir Badtschim.\
 Aber was ist Badtschim? Sie wiessen es schön, dass ein koreansiches Zeichen auf drei Teilen besteht.&#x20;
 
-<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 Kosonant + Vokal + Kosonant. oder Einfach Kosonant + Vokal. wie "나"
 
@@ -19,7 +19,7 @@ Nun schauen Wir ein Zeichen an.
 
 
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 <mark style="background-color:yellow;">Lezter Konsonant heißt 받침</mark>\[badtschim].\
 In dieser Situation ㄴ ist unser 받침.
@@ -54,7 +54,7 @@ Beispiel: 국, 눈 , 곧, 달 , 맘, 응.
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -82,7 +82,7 @@ Beispiel: 꽃, 앞, 옷
 
 Lernen Sie es wie Diagram.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

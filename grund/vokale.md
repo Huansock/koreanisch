@@ -64,7 +64,7 @@ jetzt kommt eine Herausforderung.&#x20;
 
 **ㅡ = **~~**u**~~
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>IPA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>IPA</p></figcaption></figure>
 
 ~~**u**~~ steht  in der Mitte am höchsten. \
 Hören Sie es mal erst!
@@ -146,7 +146,7 @@ ich bringe dir jetzt ein Konsonant. \
 \
 HÄ? Was ist die Stelle? <- okay ich zeige Ihnen.\
 \
-![](<.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Die sind Schreibweise.&#x20;
 
@@ -178,7 +178,7 @@ dann wie heißt 우유, wenn es fällt?\
 \
 Hint!
 
-<figure><img src=".gitbook/assets/th-932706106.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/th-932706106.jpg" alt=""><figcaption></figcaption></figure>
 
 Sauchen Sie das Antwort in meinen Tiktok an!
 
