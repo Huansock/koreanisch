@@ -1,5 +1,9 @@
 # Vokale
 
+{% embed url="https://www.buymeacoffee.com/huansock" %}
+bitteschön
+{% endembed %}
+
 Lernen Sie mit mir!&#x20;
 
 {% embed url="https://www.youtube.com/watch?ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC&t=3s&v=KnCq8eHtBfI" %}
