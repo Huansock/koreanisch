@@ -53,6 +53,7 @@ dogilmekju@gmail.com
 2. [How to study korean](https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/german/)
 3. [korean from zero ](http://www.koreanfromzero.com/lessons/?#/1/intro/)not recommand for german people...
 4. [NURI Sprchschule](https://nuri.iksi.or.kr/front/main/main.do?language=en) highly recommand when you are in korea. Server is in korea..
+5. [koreanisches Kulturzentrum](https://kulturkorea.org/ko/node/2032)
 
 ### Tools
 
@@ -61,9 +62,6 @@ dogilmekju@gmail.com
 ### Kostenlose Bücher
 
 1. [a1-a2 Wortliste](https://nuri.iksi.or.kr/front/cms/contents/layout2/learningdictionary/contentsList.do?language=en)
-
-### Offline
-
-1. [koreanisches Kulturzentrum](https://kulturkorea.org/ko/node/2032)
+2. [koreanisches Kulturzentrum](https://kulturkorea.org/ko/node/2032)
 
 Wenn Sie die Inhalte von meiner Website anwenden möchten, Sie müssen ein E mail mir screiben. Sie dürfen nicht mein Website freiwillig benutzen.
