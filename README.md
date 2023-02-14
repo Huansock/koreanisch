@@ -62,4 +62,8 @@ dogilmekju@gmail.com
 
 1. [a1-a2 Wortliste](https://nuri.iksi.or.kr/front/cms/contents/layout2/learningdictionary/contentsList.do?language=en)
 
-### Wenn Sie die Inhalte von meiner Website anwenden möchten, Sie müssen ein E mail mir screiben. Sie dürfen nicht mein Website freiwillig benutzen.
+### Offline
+
+1. [koreanisches Kulturzentrum](https://kulturkorea.org/ko/node/2032)
+
+Wenn Sie die Inhalte von meiner Website anwenden möchten, Sie müssen ein E mail mir screiben. Sie dürfen nicht mein Website freiwillig benutzen.
