@@ -33,9 +33,9 @@ dann müssen wir jetzt -은/는, -이다 ,-에요 lernen.
 
 
 
-### -은 oder -는 (Subjekt-Hilfswort)
+### -은 oder -는 (Plus-Hilfswort)
 
-Die heißen 'Subjekt-Hilfswort'. Es bedeutet wenn -은 oder -는 mit Nomen verwunden werden, dann die werden Subjekt.
+Die heißen 'Plus-Hilfswort'. Es bedeutet wenn -은 oder -는 mit Nomen verwunden werden, dann die werden Subjekt oder Objekt.
 
 나 + -는 = 나는&#x20;
 
