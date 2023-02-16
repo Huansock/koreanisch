@@ -23,7 +23,7 @@ der Unterschied ist,&#x20;
 
 
 
-Können Sie daran erinnern , was ich gesagt habe?? ja. Alles von Koreanisch ist die SUFFIXE.
+Können Sie daran erinnern , was ich gesagt habe?? ja. Fast alles von Koreanisch ist die SUFFIXE.
 
 Wir haben keine Duzen oder Siezen , sondern **존댓말** und **반말**. Die sind was ich auch hasse. hahaha
 
@@ -41,7 +41,7 @@ Beispiel:
 
 먹다 = essen
 
-드시다 = essen(höfflich)
+드시다 = essen(höflich)
 
 
 
@@ -81,7 +81,7 @@ So 안녕하세요 bedeutet 'Sind Sie wohl?' aber naja, jetzt es bedeutet 'Hallo
 
 먹다 = essen
 
-드시다 = essen(höfflich)
+드시다 = essen(höflich)
 
 
 
