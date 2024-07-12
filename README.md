@@ -13,8 +13,6 @@ Haben Sie Bock auf Koreanisch?? Dann lernen Sie mit mir!!
 
 
 
-{% embed url="https://discord.gg/ee8YYSANm2" %}
-
 ## Homepage
 
 ![homepage](.gitbook/assets/homepage\_screenshot.png)
