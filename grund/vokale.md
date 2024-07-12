@@ -1,12 +1,6 @@
 # Vokale
 
-{% embed url="https://www.buymeacoffee.com/huansock" %}
-bitteschön
-{% endembed %}
-
 Lernen Sie mit mir!&#x20;
-
-{% embed url="https://www.youtube.com/watch?ab_channel=%EB%8F%85%EC%9D%BC%EB%A7%A5%EC%A3%BC&t=3s&v=KnCq8eHtBfI" %}
 
 ### ich benutze "<mark style="color:red;">j</mark>" und "<mark style="color:red;">w</mark>"  auf englisch. Das heißt <mark style="color:red;">j</mark> ist kein jott sondern jay und <mark style="color:red;">w</mark> ist Double-U, fall die <mark style="color:red;">rot</mark> sind. &#x20;
 
@@ -16,18 +10,7 @@ Lernen Sie mit mir!&#x20;
 
 #### Einfache Vokale
 
-| Einfache Vokale | auf deutsch |
-| --------------- | ----------- |
-| ㅏ               | A           |
-| ㅑ               | JA          |
-| ㅓ               | ə           |
-| ㅕ               | Jə          |
-| ㅗ               | O           |
-| ㅛ               | JO          |
-| ㅜ               | U           |
-| ㅠ               | JU          |
-| ㅡ               | ~~U~~       |
-| ㅣ               | I           |
+<table><thead><tr><th width="189">Einfache Vokale</th><th width="571">auf deutsch</th></tr></thead><tbody><tr><td>ㅏ</td><td>A</td></tr><tr><td>ㅑ</td><td>JA</td></tr><tr><td>ㅓ</td><td>ə</td></tr><tr><td>ㅕ</td><td>Jə</td></tr><tr><td>ㅗ</td><td>O</td></tr><tr><td>ㅛ</td><td>JO</td></tr><tr><td>ㅜ</td><td>U</td></tr><tr><td>ㅠ</td><td>JU</td></tr><tr><td>ㅡ</td><td><del>U</del></td></tr><tr><td>ㅣ</td><td>I</td></tr></tbody></table>
 
 **ㅏ = a**&#x20;
 
@@ -40,7 +23,7 @@ zum Beispiel:
 
 ja. genau du hast schon zwei Vokalen gelernt.  sehr gut.
 
-**ㅓ =** [**ə**](https://de.wikipedia.org/wiki/Liste\_der\_IPA-Zeichen#%C9%99)****
+**ㅓ =** [**ə**](https://de.wikipedia.org/wiki/Liste\_der\_IPA-Zeichen#%C9%99)
 
 Sprechen Sie jetzt die Falle\[fa:lə] aus. ja genau!. In diesem Fall sprechen wir nicht \[falle] , sondern \[fa:lə]. das Wort Andere\[Andərə] ist auch so. ja dieses "**ə**" ist was ich meinte. sehr gut. \
 \
@@ -91,7 +74,7 @@ WTF? gibt es Umlaut in koreanisch? <- ja natürlich!.&#x20;
 
 #### Umlaut und <mark style="color:red;">W</mark>
 
-<mark style="color:red;"></mark>
+
 
 umlaut:
 
@@ -185,14 +168,4 @@ Hint!
 <figure><img src="../.gitbook/assets/th-932706106.jpg" alt=""><figcaption></figcaption></figure>
 
 Sauchen Sie das Antwort in meinen Tiktok an!
-
-
-
-tiktok
-
-{% embed url="https://www.tiktok.com/@dogil_mekju" %}
-
-youtube
-
-{% embed url="https://www.youtube.com/channel/UCrtpypM3hH6MBE2nLWSC1nQ" %}
 

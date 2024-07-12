@@ -1,7 +1,5 @@
 # Konsonanten
 
-{% embed url="https://www.buymeacoffee.com/huansock" %}
-
 Wenn Sie mir ein Kaffe kaufen , ich kann schnell und besser dieses Website bilden. :smile:
 
 ## Konsonanten
@@ -10,22 +8,7 @@ Wenn Sie mir ein Kaffe kaufen , ich kann schnell und besser dieses Website bilde
 
 ### Ein Zeichen - Konsonanten
 
-| Ein Zeichen - Konsonanten | Name | Deutsch                                            |
-| ------------------------- | ---- | -------------------------------------------------- |
-| ㄱ                         | 기역   | **G**, K                                           |
-| ㄴ                         | 니은   | N                                                  |
-| ㄷ                         | 디귿   | **D**, t                                           |
-| ㄹ                         | 리을   | R, **L**                                           |
-| ㅁ                         | 미음   | M                                                  |
-| ㅂ                         | 비읍   | **B**, P                                           |
-| ㅅ                         | 시옷   | S                                                  |
-| ㅇ                         | 이응   | leer oder NG                                       |
-| ㅈ                         | 지읒   | <mark style="color:red;">J(jay in jogging)</mark>  |
-| ㅊ                         | 치읓   | Tsch (wie Tschao, ch auf Englisch)                 |
-| ㅋ                         | 키옄   | K                                                  |
-| ㅌ                         | 티읕   | T                                                  |
-| ㅍ                         | 피읖   | P                                                  |
-| ㅎ                         | 히읗   | H                                                  |
+<table><thead><tr><th>Ein Zeichen - Konsonanten</th><th width="90.33333333333331">Name</th><th>Deutsch</th></tr></thead><tbody><tr><td>ㄱ</td><td>기역</td><td><strong>G</strong>, K</td></tr><tr><td>ㄴ</td><td>니은</td><td>N</td></tr><tr><td>ㄷ</td><td>디귿</td><td><strong>D</strong>, t</td></tr><tr><td>ㄹ</td><td>리을</td><td>R, <strong>L</strong></td></tr><tr><td>ㅁ</td><td>미음</td><td>M</td></tr><tr><td>ㅂ</td><td>비읍</td><td><strong>B</strong>, P</td></tr><tr><td>ㅅ</td><td>시옷</td><td>S</td></tr><tr><td>ㅇ</td><td>이응</td><td>leer oder NG</td></tr><tr><td>ㅈ</td><td>지읒</td><td><mark style="color:red;">J(jay in jogging)</mark> </td></tr><tr><td>ㅊ</td><td>치읓</td><td>Tsch (wie Tschao, ch auf Englisch) </td></tr><tr><td>ㅋ</td><td>키옄</td><td>K</td></tr><tr><td>ㅌ</td><td>티읕</td><td>T</td></tr><tr><td>ㅍ</td><td>피읖</td><td>P</td></tr><tr><td>ㅎ</td><td>히읗</td><td>H</td></tr></tbody></table>
 
 
 
@@ -47,13 +30,7 @@ Lernen Sie mit dem Lied!!
 
 ### Doppel Zeichen Konsonanten (Stern)
 
-| Doppel Konsonanten | Name | Deutsch                            |
-| ------------------ | ---- | ---------------------------------- |
-| ㄲ                  | 쌍기역  | gg                                 |
-| ㄸ                  | 쌍디귿  | dd                                 |
-| ㅃ                  | 쌍비읍  | bb                                 |
-| ㅆ                  | 쌍시옷  | ß                                  |
-| ㅉ                  | 쌍지읒  | <mark style="color:red;">jj</mark> |
+<table><thead><tr><th width="219">Doppel Konsonanten</th><th width="123.33333333333331">Name</th><th>Deutsch</th></tr></thead><tbody><tr><td>ㄲ</td><td>쌍기역</td><td>gg</td></tr><tr><td>ㄸ</td><td>쌍디귿</td><td>dd</td></tr><tr><td>ㅃ</td><td>쌍비읍</td><td>bb</td></tr><tr><td>ㅆ</td><td>쌍시옷</td><td>ß</td></tr><tr><td>ㅉ</td><td>쌍지읒</td><td><mark style="color:red;">jj</mark></td></tr></tbody></table>
 
 
 
@@ -115,12 +92,3 @@ Wichtige Wörter!!!
 
 김정은 = Gim <mark style="color:red;">J</mark>əng ~~u~~n
 
-
-
-tiktok
-
-{% embed url="https://www.tiktok.com/@dogil_mekju" %}
-
-youtube
-
-{% embed url="https://www.youtube.com/channel/UCrtpypM3hH6MBE2nLWSC1nQ" %}

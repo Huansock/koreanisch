@@ -1,9 +1,5 @@
 # 받침 (Badtschim)
 
-{% embed url="https://www.buymeacoffee.com/huansock" %}
-bitte...
-{% endembed %}
-
 ## Bedeutung des 받침
 
 Nun lernen wir Badtschim.\
@@ -30,7 +26,7 @@ Ariana Grande hat 7 Rings. Dagegen haben wir nur 7 Badtschim , das wir aussprech
 
 <mark style="background-color:yellow;">**ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ**</mark>
 
-****
+
 
 Beispiel: 국, 눈 , 곧, 달 , 맘, 응.
 
@@ -130,11 +126,3 @@ Das war's!!! \
 \
 folgend lernen wir Begrüßung !
 
-\
-Tiktok
-
-{% embed url="https://www.tiktok.com/@dogil_mekju" %}
-
-youtube
-
-{% embed url="https://www.youtube.com/channel/UCrtpypM3hH6MBE2nLWSC1nQ" %}
